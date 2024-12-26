@@ -70,3 +70,14 @@ body {
 .hide{
     display: none;
 }
+
+
+
+
+
+@media only screen and (max-width: 498px)
+{
+.msg-container {
+    height: 155vmin;
+}
+}
